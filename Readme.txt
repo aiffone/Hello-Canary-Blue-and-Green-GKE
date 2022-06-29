@@ -1,3 +1,8 @@
+https://partner.cloudskillsboost.google/focuses/11587?parent=catalog
+
+
+
+
 Managing Deployments Using Kubernetes Engine
 
 100/100
